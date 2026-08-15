@@ -14,7 +14,7 @@
 
 <br><br>
 
-sign my <a href="https://i-amclandestine.atabook.org/">ata</a> 
+check out my main <a href="https://github.com/i-amclandestine">gh</a> 
 
 <br><br>
 
