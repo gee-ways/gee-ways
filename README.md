@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="./your-image.png" width="600">
+<img src="https://files.catbox.moe/frwkg3.gif" width="600">
 
 <br><br>
 
