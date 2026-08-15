@@ -10,7 +10,7 @@
 
 <br><br>
 
-<a href="YOUR_ARTIST_LINK">art creds!</a>
+<a href="https://x.com/goatfanatic_">art creds!</a>
 
 <br><br>
 
